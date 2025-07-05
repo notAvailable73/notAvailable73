@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBicXl5bXZnY2YycDBwcTFhczZqd2tsb3psOTB0bzh1ZG90cWIzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm MD Mainul Hasan</h1>
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXA4M2E3Y3FiY25qNXoxaGozajBhbXZsZXFsMTloYW43bzc1c3h5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif">
 
 - 👋 Hi, I’m a passionate **Software Engineer**
 - 🌱 I’m currently learning **Spring Boot microservices** and **LangGraph** for **AI applications**  
